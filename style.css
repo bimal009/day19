@@ -79,11 +79,12 @@ button {
     color: rgb(226, 48, 108);
 }
 
-@media only screen and (orientation:portrait) {
+@media only screen and (max-width:500px) {
 
     body {
         height: 250vh;
         justify-content: center;
+        width: 300px;
 
     }
 
