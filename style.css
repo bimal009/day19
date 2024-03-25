@@ -89,6 +89,12 @@ button {
 
     }
 
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
     .boxes {
         display: flex;
         flex-direction: column;
