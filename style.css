@@ -85,14 +85,12 @@ button {
         height: 250vh;
         justify-content: center;
         align-items: center;
-        width: 300px;
+
 
     }
 
     .container {
-        display: flex;
-        align-items: center;
-        justify-content: center;
+        width: 300px;
     }
 
     .boxes {
@@ -100,5 +98,6 @@ button {
         flex-direction: column;
         justify-content: center;
         align-items: center;
+        margin: 0 auto;
     }
 }
