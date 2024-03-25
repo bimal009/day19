@@ -83,6 +83,8 @@ button {
 
     body {
         height: 250vh;
+        justify-content: center;
+        width: fit-content;
     }
 
     .boxes {
